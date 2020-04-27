@@ -1182,5 +1182,5 @@ h1, h2, h3, h4, h5,
 
 .owl-next, .owl-prev {
   padding: 20px !important;
-  /* display: none !important; */
+  display: none !important;
 }
