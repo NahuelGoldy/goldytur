@@ -1173,3 +1173,14 @@ h1, h2, h3, h4, h5,
   color: salmon !important;
   font-weight: 500 !important;
 }
+
+.owl-nav {
+  display: flex !important;
+  justify-content: center !important;
+  font-size: xxx-large !important;
+}
+
+.owl-next, .owl-prev {
+  padding: 20px !important;
+  /* display: none !important; */
+}
